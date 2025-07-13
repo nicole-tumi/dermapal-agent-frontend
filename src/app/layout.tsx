@@ -19,10 +19,10 @@ export default function RootLayout({ children }: { children: ReactNode }) {
                                 ¿Qué es DermaPal? 🌸
                             </p>
                             <p className="font-light">
-                                Asistente conversacional especializado en
-                                cuidado facial que recomienda productos de
-                                skincare y facilita la compra según tipo de
-                                piel, necesidad y presupuesto.
+                                DermaPal es un asistente conversacional
+                                especializado en cuidado facial que recomienda
+                                productos de skincare y facilita la compra según
+                                tipo de piel, necesidad y presupuesto.
                             </p>
                         </div>
                     </aside>
