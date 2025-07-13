@@ -22,15 +22,10 @@ DermaPal es un asistente conversacional desarrollado con IA que guía al usuario
 -   Visualización clara y ordenada de respuestas (con formato enriquecido)
 -   Integración con backend de IA para procesamiento natural del lenguaje
 
-## 🚀 Cómo iniciar localmente
-
-### 1. Clona el repositorio
-
-```bash
-git clone https://github.com/nicole-tumi/dermapal-agent-ui.git
-cd dermapal-agent-ui
-
 ## 🤝 Conecta conmigo
 
 👩🏻‍💻 [Nicole Tumi en LinkedIn](https://www.linkedin.com/in/nicole-tumi/)
+
+```
+
 ```
