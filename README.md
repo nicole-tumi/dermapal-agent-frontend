@@ -25,7 +25,3 @@ DermaPal es un asistente conversacional desarrollado con IA que guía al usuario
 ## 🤝 Conecta conmigo
 
 👩🏻‍💻 [Nicole Tumi en LinkedIn](https://www.linkedin.com/in/nicole-tumi/)
-
-```
-
-```
